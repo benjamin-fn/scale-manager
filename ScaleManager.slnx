@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="backend/ScaleManager.csproj" />
+  <Project Path="tests/ScaleManager.Tests.csproj" />
+</Solution>

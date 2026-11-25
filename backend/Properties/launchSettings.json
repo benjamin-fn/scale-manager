@@ -1,0 +1,10 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "ScaleManager": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5082",
+      "environmentVariables": { "ASPNETCORE_ENVIRONMENT": "Development" }
+    }
+  }
+}
